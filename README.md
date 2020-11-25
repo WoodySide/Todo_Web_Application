@@ -2,7 +2,7 @@
 -----------
 Full Stack Spring Boot VueJS TodoMVC Application with REST APIs, JPA, Hibernate and PostgreSQL
 
-![VwV1fQ5](https://user-images.githubusercontent.com/72156897/100266953-b7643e80-2f63-11eb-84f5-df89bd748799.jpeg)
+![r2mcPhO](https://user-images.githubusercontent.com/72156897/100267296-440efc80-2f64-11eb-999b-d007d5249c02.jpeg)
 
 
 :cyclone: Description
