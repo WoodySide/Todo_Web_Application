@@ -1,10 +1,10 @@
-:cyclone:To do
+:cyclone: To do
 -----------
 Full Stack Spring Boot VueJS TodoMVC Application with REST APIs, JPA, Hibernate and PostgreSQL
 
 
 
-:cyclone:Description
+:cyclone: Description
 -----------
 The application organizes your tasks and handle them in a simple way: 
 
@@ -18,7 +18,7 @@ The application organizes your tasks and handle them in a simple way:
 
 :cyclone: Installation and launch
 -----------
-1)Cloning the repository: git clone - https://github.com/WoodySide/Product-Manager.git;
+1)Cloning the repository: git clone - https://github.com/WoodySide/Todo_Web_Application.git;
 
 2)Go to the  directory, with the project itself;
 
