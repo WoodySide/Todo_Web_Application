@@ -2,11 +2,12 @@
 -----------
 Full Stack Spring Boot VueJS TodoMVC Application with REST APIs, JPA, Hibernate and PostgreSQL
 
+![VwV1fQ5](https://user-images.githubusercontent.com/72156897/100266953-b7643e80-2f63-11eb-84f5-df89bd748799.jpeg)
 
 
 :cyclone: Description
 -----------
-The application organizes your tasks and handle them in a simple way: 
+The application organizes your tasks and plans. 
 
 :cyclone: Requirements
 -----------
