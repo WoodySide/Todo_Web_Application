@@ -25,6 +25,6 @@ The application organizes your tasks and plans.
 
 3)Building the project: mvn install;
 
-4)Сreating docker image docker: build -t docker-todo_web_application.;
+4)Сreating docker image docker: build -t docker-todo_web_application;
 
 5)docker run -p 8080:8080 docker-todo_web_application.
